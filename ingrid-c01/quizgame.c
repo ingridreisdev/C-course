@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdio.h>
 
 int main() {
@@ -78,6 +77,3 @@ if (pontos == 5) {
 }
  return 0;
 }
-=======
-
->>>>>>> 48c737d3279135d7ee799cfb916caa1eb9130384
