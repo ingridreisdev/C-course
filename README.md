@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Macedo-Kayki/python-course/commits/main"><img src="https://img.shields.io/github/last-commit/Macedo-Kayki/python-course?style=for-the-badge&color=blueviolet" alt="Last Commit"></a>
-  <a href="https://github.com/Macedo-Kayki/python-course/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Macedo-Kayki/python-course?style=for-the-badge&color=green" alt="License"></a>
-  <img src="https://img.shields.io/github/repo-size/Macedo-Kayki/python-course?style=for-the-badge&color=orange" alt="Repo Size">
+  <a href="https://github.com/ingridreisdev/C-course/commits/main"><img src="https://img.shields.io/github/last-commit/ingridreisdev/C-course?style=for-the-badge&color=blueviolet" alt="Last Commit"></a>
+  <a href="https://github.com/ingridreisdev/C-course/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ingridreisdev/C-course?style=for-the-badge&color=green" alt="License"></a>
+  <img src="https://img.shields.io/github/repo-size/ingridreisdev/C-course?style=for-the-badge&color=orange" alt="Repo Size">
 </p>
 
 <hr>
@@ -20,7 +20,7 @@
 
 Welcome to my study repository! 🐍
 
-Here I document everything I'm learning about **Python**, organizing the content into modules, practical exercises, and small projects. The goal is to create a solid knowledge base for Backend Development and Data Science.
+Here I document everything I'm learning about **C**, organizing the content into modules, practical exercises, and small projects. The goal is to create a solid knowledge base for Backend Development and Data Science.
 
 ## 🛠️ Tech Stack
 
