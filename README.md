@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Logo" width="50">
+  <img src="https://icons8.com.br/icons/set/c-programming" alt="C Logo" width="50">
   <br>
-  Python Course
+  C Course
 </h1>
 
 <p align="center">
-  <strong>My journey mastering Python: From logic to advanced concepts.</strong>
+  <strong>My journey mastering C: From logic to advanced concepts.</strong>
 </p>
 
 <p align="center">
