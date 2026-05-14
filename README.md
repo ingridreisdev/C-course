@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://images.icon-icons.com/2415/PNG/512/c_plain_logo_icon_146610.png" alt="C Logo" width="50">
+  <img src="https://img.icons8.com/color/600/c-programming.png" alt="C Logo" width="50">
   <br>
   C Course
 </h1>
